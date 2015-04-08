@@ -1,0 +1,14 @@
+2015-04-08 09:16:12.903 BLE Connect[71341:2421655] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/thomas/Library/Developer/CoreSimulator/Devices/4942F783-998A-4511-97F3-5C758F842B4C/data/Containers/Data/Application/142BE88B-5224-41A0-8A43-CCB13CB3B014/Library/Cookies/Cookies.binarycookies
+2015-04-08 09:16:13.282 BLE Connect[71341:2421655] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-08 09:16:13.283 BLE Connect[71341:2421655] Multi-tasking -> Device: YES, App: YES
+2015-04-08 09:16:13.289 BLE Connect[71341:2421655] Unlimited access to network resources
+2015-04-08 09:16:13.307 BLE Connect[71341:2421655] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-08 09:16:13.920 BLE Connect[71341:2421655] Resetting plugins due to page load.
+2015-04-08 09:16:14.013 BLE Connect[71341:2421655] Finished load of: file:///Users/thomas/Library/Developer/CoreSimulator/Devices/4942F783-998A-4511-97F3-5C758F842B4C/data/Containers/Bundle/Application/EE332EE1-C16A-4090-A57F-EB800D55066E/BLE%20Connect.app/www/index.html
